@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="La Caverna nella religiosità primitiva">
+    <title>La Caverna - Religiosità Primitiva</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background-color: #f0f8ff; }
+        header { background-color: #0073e6; color: white; padding: 20px; text-align: center; font-size: 2.5em; }
+        nav { background-color: #005bb5; padding: 15px; }
+        nav a { color: white; text-decoration: none; font-size: 1.2em; padding: 10px; transition: color 0.3s; }
+        nav a:hover { color: #ffcc00; }
+        section { padding: 20px; margin: 10px; }
+        .content { background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+        footer { background-color: #005bb5; color: white; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0; }
+    </style>
+</head>
+<body>
+
+    <header>La Caverna</header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="index.html#religiosita-primitiva">Religiosità Primitiva</a>
+    </nav>
+
+    <section class="content">
+        <h2>La Caverna nella Religiosità Primitiva</h2>
+        <p>
+            Le caverne hanno sempre avuto un significato simbolico per le prime comunità umane, fungendo non solo da abitazioni e rifugi, ma anche come luoghi sacri per rituali religiosi e spirituali. Le pareti delle caverne erano utilizzate per dipingere scene di vita quotidiana e di caccia, come avviene nelle celebri <strong>Grotte di Lascaux</strong> in Francia, dove troviamo dipinti datati a circa 17.000 anni fa.
+        </p>
+        <p>
+            La caverna era vista come un punto di contatto con il soprannaturale, un luogo dove lo spirito dell'uomo poteva connettersi con il mondo naturale e ultraterreno. Le pitture rupestri ritrovate in numerose grotte del mondo, dall'Europa all'Africa, mostrano la rappresentazione di animali come bisonti, cervi, e cavalli, oltre a figure umane stilizzate in posizioni rituali. Questo suggerisce che la caverna fosse considerata uno spazio di transizione, un vero e proprio grembo spirituale da cui l'uomo poteva rinascere o connettersi con gli antenati.
+        </p>
+        <p>
+            Molte caverne erano utilizzate per scopi funerari, come dimostrano le sepolture ritrovate. La grotta rappresentava simbolicamente il grembo della Terra Madre, e l'atto di seppellire i morti in questi luoghi sacri simboleggiava un ritorno all'origine, una rinascita nella vita ultraterrena. Alcune grotte erano dotate di altari di pietra, dove si praticavano sacrifici o offerte agli spiriti.
+        </p>
+        <p>
+            Un esempio di caverna sacra è la <strong>Cueva de los Manos</strong> in Argentina, dove le pareti sono coperte di impronte di mani dipinte. Si pensa che questo fosse un rituale di passaggio, legato alla maturità o alla protezione spirituale del gruppo.
+        </p>
+    </section>
+
+    <footer>
+        © 2024 Insegnante di Religione
+    </footer>
+
+</body>
+</html>
